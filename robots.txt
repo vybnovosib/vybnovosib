@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vibori-2020.ru/sitemap.xml
